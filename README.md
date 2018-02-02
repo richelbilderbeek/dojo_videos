@@ -13,3 +13,4 @@ Width en Hight|[YouTube](https://youtu.be/pbj0fUn0qVQ)|[mp4](http://www.richelbi
 Point en Random|[YouTube](https://youtu.be/5CUNBJWJdpA)|[mp4](http://www.richelbilderbeek/point_en_random.mp4)
 Line en Stroke|[YouTube](https://youtu.be/94cuhGWpdjw)|[mp4](http://www.richelbilderbeek/line_en_stroke.mp4)
 Bal Eeuwig Naar Rechts|[YouTube](https://youtu.be/k-7Ji0_HcAc)|[mp4](http://www.richelbilderbeek/bal_eeuwig_naar_rechts.mp4)
+Rect en Fill|[YouTube](https://youtu.be/s11o-UyEr04)|[mp4](http://www.richelbilderbeek/rect_en_fill.mp4)
